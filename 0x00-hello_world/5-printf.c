@@ -1,7 +1,8 @@
-#include <stddio.h>
-/*  main - entry point
- *  Returns 0 (Success)
- * using printf
+#include<stdio.h>
+/**
+* main - Entry point
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
